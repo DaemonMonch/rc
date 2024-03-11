@@ -1,4 +1,4 @@
-module slmmzx/rc
+module github.com/DaemonMonch/rc
 
 go 1.20
 
